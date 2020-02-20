@@ -1,9 +1,8 @@
-# Assignment Description
-
-written by 
+# Spartan Day Program
+written by OB '23
 
 edit with appropriate link:
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Spartan-Day-OB)](https://repl.it/github/athenian-ct-projects/Spartan-Day-OB)
 
-Add info about game here
+* This is a program that will determine which elements a student needs to do in their race.
